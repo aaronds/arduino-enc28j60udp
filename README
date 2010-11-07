@@ -1,1 +1,5 @@
+A UDP client for the enc28j60 ethernet chip as used on the etherShield.
 
+http://www.nuelectronics.com/estore/?p=14
+
+Work in progress - see examples folder for more information.
